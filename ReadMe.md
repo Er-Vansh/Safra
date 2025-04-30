@@ -13,12 +13,10 @@ Safra is a self-hosted Google Drive clone built with a powerful backend using **
 
 - 🔐 User authentication and session management
 - ☁️ Upload, download, and delete files
-- 🗃️ Organize files into folders
 - 📁 Public and private sharing options
-- 🧾 Clean and RESTful API design
 - 🗂️ File metadata support (type, size, etc.)
 - 🔒 Cookie-based session storage
-- 💾 File storage on Firebase or local (pluggable)
+- 💾 File storage on Firebase 
 
 ---
 
@@ -26,7 +24,7 @@ Safra is a self-hosted Google Drive clone built with a powerful backend using **
 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose)
-- **Storage:** Firebase Storage (or pluggable local storage)
+- **Storage:** Firebase Storage 
 - **Authentication:** Cookie-based sessions
 - **View Engine (optional):** EJS
 
@@ -40,5 +38,5 @@ Safra is a self-hosted Google Drive clone built with a powerful backend using **
 git clone https://github.com/yourusername/safra.git
 cd safra
 
-npm install 
+npm install express mongoose ejs firebase-admin multer multer-firebase-storage bcrypt jsonwebtoken dotenv cookie-parser express-validator
 
