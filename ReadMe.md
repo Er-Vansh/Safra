@@ -4,7 +4,6 @@ Safra is a self-hosted Google Drive clone built with a powerful backend using **
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23238956.svg?logo=mongodb&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/safra)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 ---
